@@ -11,7 +11,7 @@ menu bar app + Desktop widget instead of a local web page.
 ## Install (one command, per machine)
 
 ```bash
-git clone <this-repo-url> DevDiskWidget
+git clone https://github.com/waqssultan/dev-disk-widget/edit/main DevDiskWidget
 cd DevDiskWidget
 ./install.sh
 ```
@@ -65,3 +65,10 @@ git pull
 - The cache/target list is kept in sync by hand with the companion HTML
   dashboard's `server.py` — if you add a target there, add it to
   `Shared/DiskScanner.swift` too.
+
+
+  Design: 
+
+  <img width="475" height="38" alt="Screenshot 2026-08-19 at 3 48 32 PM" src="https://github.com/user-attachments/assets/fedd32ed-9b44-4383-9a1c-0d9899ae1039" />
+<img width="396" height="375" alt="Screenshot 2026-08-19 at 3 48 24 PM" src="https://github.com/user-attachments/assets/3f26c4a7-b4ec-4c01-8df3-36a0c02f6bab" />
+
